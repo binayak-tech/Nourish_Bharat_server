@@ -1,0 +1,19 @@
+{
+  "name": "nourish_bharat_server",
+  "version": "1.0.0",
+  "description": "Nourish India is a people-funded initiative dedicated to addressing the critical issue of child malnutrition in the country. The mission is to connect caring individuals, or donors, with malnourished children to provide them with essential support and resources for a healthier life. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binayak-tech/Nourish_Bharat_server.git"
+  },
+  "author": "Binayak Purohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binayak-tech/Nourish_Bharat_server/issues"
+  },
+  "homepage": "https://github.com/binayak-tech/Nourish_Bharat_server#readme"
+}
